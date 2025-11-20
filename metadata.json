@@ -1,0 +1,8 @@
+{
+  "name": "StudyBuddy AI",
+  "description": "A smart homework solver that helps students understand Math, Science, History, and more with step-by-step explanations using text or image inputs.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
